@@ -1,2 +1,2 @@
-# Graphics-Billing-Web-Application-Project-in-MVC
+# Graphics Billing Application - Web
 My Completed Graphic Billing Web Application Project in MVC
